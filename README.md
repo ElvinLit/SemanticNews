@@ -1,4 +1,4 @@
-# Kalshi Event News Monitor
+# Event News Monitor
 
 A locally-hosted, low-latency desktop application that monitors RSS/Atom feeds and matches headlines to user-defined events using semantic similarity.
 
