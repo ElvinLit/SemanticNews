@@ -1,0 +1,33 @@
+# Build directories
+build/
+cmake-build-*/
+venv/
+
+# Python virtual environment
+embedding_service/venv/
+embedding_service/env/
+embedding_service/ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+

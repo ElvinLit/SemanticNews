@@ -1,0 +1,23 @@
+{
+  "embedding_service_url": "http://127.0.0.1:8000/embed",
+  "rss_feeds": [
+    {
+      "name": "Reuters Top News",
+      "url": "https://feeds.reuters.com/reuters/topNews"
+    },
+    {
+      "name": "AP Top News",
+      "url": "https://apnews.com/hub/ap-top-news?format=atom"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/espn/rss/news"
+    }
+  ],
+  "poll_interval_ms": 5000,
+  "global_similarity_threshold": 0.35
+}
+
+
+
+
